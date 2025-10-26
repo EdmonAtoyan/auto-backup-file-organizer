@@ -1,0 +1,17 @@
+# binary installers / archives
+*.deb
+*.rpm
+*.dmg
+*.iso
+*.zip
+*.7z
+*.tar
+*.gz
+*.bz2
+
+# python cache
+__pycache__/
+*.pyc
+
+# local data folders (թեստային)
+backup_folder/
